@@ -1,5 +1,6 @@
 {
 	"name": "vardot/blazy",
 	"description": "forked from dinbror/blazy to be used as drupal-library",
+	"license": "MIT",
 	"type": "drupal-library"
 }
